@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+
+html {
+    background-color: greenyellow;
+}
+
+.nuggs {
+    width: 45%;
+    margin: 0 auto;
+}
+
+.text1 p {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 5%;
+    margin: 0 auto;
+    width: 50%;
+    color: yellow;
+}
+
+.text2 {
+    text-align: center;
+    font-size: 1.5rem;
+    width: 80%;
+    margin: 0 auto;
+    color: yellow;
+}
+
+header {
+    font-family: 'Rubik', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    color: yellow;
+    width: 60%;
+    margin: 0 auto;
+}
+
+body {
+    height: 1080px;
+    width: 70%;
+    margin: 0 auto;
+    background-color: blue;
+}
